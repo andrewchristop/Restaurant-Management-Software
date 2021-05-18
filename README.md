@@ -1,5 +1,5 @@
 # Restaurant-Management-Software
-I am writing a restaurant management software based on a restaurant that is frequently referenced in American Psycho called 'Dorsia' (I'm a huge fan of the film so you'll get what I mean if you've already watched it). This program is written in python and runs on a Command Line Interface, though I will probably do a GUI version for the program that will be up for release sometime in the future. This program is also integrated with SQL to help with data storage and management.
+I am writing a restaurant management software based on a restaurant that is frequently referenced in American Psycho called 'Dorsia' (I'm a huge fan of the film so you'll get what I mean if you've already watched it). This program is written in python and runs on a Command Line Interface, though I will probably do a GUI version of the program that will be up for release sometime in the future. This program is also integrated with SQL to help with data storage and management.
 
 # Features
 This program essentially enables restaurant employes ie: waiters, to be able to add customer reservation, assign tables, and customer orders. For security reasons, this porgram is password protected and can be changed anytime the user likes. 
